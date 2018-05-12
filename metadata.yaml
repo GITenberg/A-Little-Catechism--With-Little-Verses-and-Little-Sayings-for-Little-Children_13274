@@ -1,0 +1,28 @@
+_repo: A-Little-Catechism--With-Little-Verses-and-Little-Sayings-for-Little-Children_13274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mason, John
+    deathdate: 1694
+    gutenberg_agent_id: '4971'
+    url: http://www.gutenberg.org/2009/agents/4971
+description: ''
+gutenberg_bookshelf: Children's Religion
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Examinations, questions, etc.'
+- !lcc 'BT'
+- !lcsh 'Children -- Conduct of life -- Poetry'
+- !lcsh 'Catechisms, English'
+title: A Little Catechism; With Little Verses and Little Sayings for Little Children
+url: http://www.gutenberg.org/ebooks/13274
