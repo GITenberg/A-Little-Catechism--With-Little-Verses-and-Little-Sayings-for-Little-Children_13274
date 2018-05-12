@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4971'
     url: http://www.gutenberg.org/2009/agents/4971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13274#A-Little-Catechism--With-Little-Verses-and-Little-Sayings-for-Little-Children
 gutenberg_bookshelf: Children's Religion
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
